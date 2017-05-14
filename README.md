@@ -1,2 +1,2 @@
 # AGLExercise
-AGL Developer Exercise / Person > Pet List filering
+AGL Developer Exercise / Person > Pet List filtering
